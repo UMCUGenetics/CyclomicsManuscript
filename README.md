@@ -12,7 +12,7 @@ Here, you can find all code that can be used to reproduce the results of Figures
 "Accurate detection of circulating tumor DNA using nanopore consensus sequencing"
 
 ## Data
-Processed data DOI: 10.5281/zenodo.3925250
+Processed data https://doi.org/10.5281/zenodo.3925250
 
 
 ## Instructions for use
