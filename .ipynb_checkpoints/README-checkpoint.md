@@ -12,7 +12,7 @@ Here, you can find all code that can be used to reproduce the results of Figures
 "Accurate detection of circulating tumor DNA using nanopore consensus sequencing"
 
 ## Data
-Processed data https://doi.org/10.5281/zenodo.3925250
+Processed data DOI: 10.5281/zenodo.3925250
 
 
 ## Instructions for use
@@ -77,22 +77,10 @@ Processed data https://doi.org/10.5281/zenodo.3925250
 R version 3.5.1<br />
 RSrudio version 1.1.456 <br />
 
-Python version 3.6<br />
-jupyterlab version 1.2.6<br />
-
-
-
 
 ## R packages
-- cowplot		0.9.3
-- ggplot2		3.0.0
-- gridExtra		2.3
-- reshape2		1.4.3
-- scales		0.5.0
-
-## Python libraries
-- matplotlib	3.1.3
-- numpy			1.18.5
-- pandas		1.0
-- scipy			1.4
-- biopython		1.7
+- cowplot	0.9.3
+- ggplot2	3.0.0
+- gridExtra	2.3
+- reshape2	1.4.3
+- scales	0.5.0
